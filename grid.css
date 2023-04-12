@@ -1,0 +1,62 @@
+/**
+ * Author: CastleBomber
+ * Project: CSS Grid
+ * Date: April 11th, 2023
+ *
+ * Acknowledgements: Traversy Media's Youtube CSS Grid series
+ *
+ * Tips:
+ * Creates a React app with the contents a folder called frontend
+ * npx create-react-app@latest frontend --template redux
+ *
+ * To begin:
+ * npm run start, from root folder
+ *
+ * cmd+D will change opening and closing tag simultaneously
+ * cmd+D (+ D..) change multiple nearby instances of a name
+ * cors-heroku error: open https://cors-anywhere.herokuapp.com/corsdemo
+ *
+ * Watch out for:
+ * In app, older syntax 'component', needs to be switched to 'element'
+ * older syntax of 'Switch', need to be 'Router' surrounding 'Route'
+ *
+ * URL variables may need ending '/' added to function properly
+ *
+ * Bootstrap uses: public/index.html
+ *
+ * For multiple package.json files, the needed dependency will need
+ * to be loaded up from the ~immediate directory (perhaps where npm* was called)
+ * ex: frontend/src/App.js uses react-bootstrap.
+ *     so frontend/package.json needs to show react-bootstrap
+ *     ./package.json version not seen/used
+ *
+ * For image carousel, keep images 1920w x 800h to prevent page resizing
+ */
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  background: #f5f5f5;
+}
+
+.container {
+  max-width: 960px;
+  margin: 100px auto;
+  padding: 10px;
+}
+
+.item {
+  background: steelblue;
+  color: #fff;
+  font-size: 20px;
+  padding: 20px;
+  border: skyblue 1px solid;
+}
