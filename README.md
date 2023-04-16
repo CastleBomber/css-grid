@@ -14,19 +14,13 @@
     <img src="images/favicon-32x32.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">CSS-Grid</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    Frontend design
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <br />
   </p>
 </div>
 
@@ -34,17 +28,15 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 CSS Grid Project
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"></p>
 
 ### Built With
 
 CSS
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"></p>
 
 <!-- GETTING STARTED -->
 
@@ -53,15 +45,13 @@ CSS
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+<p align="right"></p>
 
 <!-- ACKNOWLEDGMENTS -->
 
@@ -70,7 +60,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 Thanks to Traversy Media
 
 - [CSS Grid Crash Course](https://www.youtube.com/watch?v=0xMQfnTU6oo&ab_channel=TraversyMedia)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
