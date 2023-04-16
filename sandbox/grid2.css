@@ -10,6 +10,8 @@ body {
   height: 100vh;
 
   display: grid;
+
+  /* Coolest ability! Very elegant layout */
   grid-template-areas:
     "header header header"
     "nav content sidebar"
