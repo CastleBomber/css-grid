@@ -1,0 +1,19 @@
+CSS Grid
+
+Valid Names
+grid-template-areas:
+    "nav"
+    "main"
+    "article"
+    "footer";
+
+
+Some Valid names
+"nav" → for navigation
+"header" → for page headers
+"main" → for the main content
+"aside" → for sidebars
+"footer" → for the footer
+"section" → for content sections
+"content" → for general content
+"widget" → for specific widgets
